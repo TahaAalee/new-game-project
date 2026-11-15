@@ -16,7 +16,5 @@ Honestly, the most interesting part of the project was the final parts of it. th
 AI was exclusively used to understand code. i did not copy anything, and i explicitly told the AI that i reject vibecoding. i have little to no knowledge on coding as of current, so i believe using AI this way was necessary for me to not disturb the hosts constantly. 
 
 I had more ambitious plans but i plan to release that as a personal passion project, should i decide to go forward with my idea. 
-
-
 #undertalecodingquality
 #it would require a lot more time and effort to pursue and complete, especially since i want said game to be polished in terms of visuals, sound, story, integrity of code, game mechanics and the such.
