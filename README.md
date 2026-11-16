@@ -5,6 +5,9 @@ Hi! This is a basic game that went from being an attempt at making a pong game t
 
 now for some more specific details. i almost exclusively used Godot Engine to make my game. i took a copyright free image for the background and downloaded a free sound effect for the ball impact sound effect. i used the language that is used in Godot Engine. it was made from me wanting to make a simple ball and padel game to avoid deadline constraints. most of the problems were fixed with help from the event organisers. a few problems in particular  were repurposed into features. one was how the ball moves the padel, which had the game go from keeping the ball away from the bottom to bouncing the ball as you wish, with four directional control over the paddle instead of two. the reason for a golden ball is because i completed all the code for a single ball then duplicated it three times. the counter only worked for the fourth ball. i coloured it instead of trying to fix the code, and from a gameplay standpoint it makes points require more input to get.
 
+
+edit: i forgot to mention, i would like to credit some game development to Rigo Amgao. he was one of the game hosts. i was in a team of one, but he really helped me out. he was one of the event organisers. he helped me a lot with the code. all the ideas are still mine (and some stem from encountered bugs), but thank you VERY much, Rigo. i appreciate you for helping me with the code, for being an event organizer, and most importantly, for advertising the event to me in the first place. As a wise angel would say in an alternate universe, may your days be many, and your woes few.
+
 to run the project, use this website. it should run once the webpage loads. https://tahaaalee.itch.io/padelballsimulator
 
 
